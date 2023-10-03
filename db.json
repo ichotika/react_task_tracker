@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor Appointment",
+      "day": "Feb 5th at 2.30pm",
+      "reminder": true,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "Feb 5th at 2.30pm",
+      "reminder": false,
+      "status": "complete"
+    },
+    {
+      "text": "take test",
+      "day": "Friday",
+      "reminder": true,
+      "id": 4,
+      "status": "active"
+    },
+    {
+      "text": "homework",
+      "day": "monday",
+      "reminder": true,
+      "id": 5,
+      "status": "complete"
+    },
+    {
+      "text": "Clean room",
+      "day": "Friday",
+      "reminder": true,
+      "id": 6,
+      "status": "complete"
+    },
+    {
+      "text": "test",
+      "day": "monday",
+      "reminder": false,
+      "status": "active",
+      "id": 13
+    }
+  ]
+}
